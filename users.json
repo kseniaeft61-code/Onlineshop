@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "fullName": "Єфтєні Ксенія Вікторівна",
+    "contactInfo": {
+      "email": "kseneft@icloud.com",
+      "phoneNumber": "+380986511234"
+    }
+  },
+  {
+    "id": 2,
+    "fullName": "Поліщук Ангеліна Сергіївна",
+    "contactInfo": {
+      "email": "angelinapol@gmail.com",
+      "phoneNumber": "+380961235444"
+    }
+  },
+  {
+    "id": 3,
+    "fullName": "Войцеховська Анастасія Василівна",
+    "contactInfo": {
+      "email": "anstasiiavos@ukr.net",
+      "phoneNumber": "+380503214905"
+    }
+  }
+]
